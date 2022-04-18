@@ -5,7 +5,7 @@
 * Funnily enough our group utilized Trello while building this project to help keep organized and on track
 * Different types of users (Admin, Project Manager, Developer) each with their own views and sets of authorizations
 * Uses an ASP.NET MVC Frameworks with a SQL Database
-* Completed for the final project in my ADV Topics in C# SD-340 at MITT
+* Completed for the final project in my ADV Topics in C# SD-340 course at MITT
 
 ## Project Login Info
 * Admin: Email - Admin@mitt.ca PW: Password!1
