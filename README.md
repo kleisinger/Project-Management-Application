@@ -1,6 +1,6 @@
 # Project-Managent-Application
 * A large task management application uses an ASP.NET MVC Frameworks with a SQL Database including Seed Data
-* Completed with a group consisting of myself and 3 classmates
+* Completed with a group consisting of myself and 3 classmates 
 * Got plenty of practice working in GitHub in a team environment working through things like pull requests, merges, and resolving conflicts during this project (The repository our group worked out of was on another group member's account).
 * Funnily enough our group utilized Trello while building this project to help keep organized and on track
 * Different types of users (Admin, Project Manager, Developer) each with their own views and sets of authorizations
