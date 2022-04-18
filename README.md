@@ -8,9 +8,9 @@
 * Completed for the final project in my ADV Topics in C# SD-340 at MITT
 
 ## Project Login Info
-* Admin: Email: Admin@mitt.ca PW: Password!1
-* Project Manager: Email: pm@mitt.ca PW: Password!1
-* Developer: Email: dev1@mitt.ca PW: Password!1
+* Admin: Email - Admin@mitt.ca PW: Password!1
+* Project Manager - Email: pm@mitt.ca PW: Password!1
+* Developer: Email - dev1@mitt.ca PW: Password!1
 
 
 ## Assignment Requirements
