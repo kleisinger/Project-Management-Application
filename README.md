@@ -1,10 +1,16 @@
 # Project-Managent-Application
-* A large task management application completed with a group consisting of myself and 3 classmates
+* A large task management application uses an ASP.NET MVC Frameworks with a SQL Database including Seed Data
+* Completed with a group consisting of myself and 3 classmates
 * Got plenty of practice working in GitHub in a team environment working through things like pull requests, merges, and resolving conflicts during this project (The repository our group worked out of was on another group member's account).
 * Funnily enough our group utilized Trello while building this project to help keep organized and on track
 * Different types of users (Admin, Project Manager, Developer) each with their own views and sets of authorizations
 * Uses an ASP.NET MVC Frameworks with a SQL Database
 * Completed for the final project in my ADV Topics in C# SD-340 at MITT
+
+## Project Login Info
+* Admin: Email: Admin@mitt.ca PW: Password!1
+* Project Manager: Email: pm@mitt.ca PW: Password!1
+* Developer: Email: dev1@mitt.ca PW: Password!1
 
 
 ## Assignment Requirements
